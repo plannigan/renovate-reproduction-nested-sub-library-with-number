@@ -1,4 +1,4 @@
-# renovate-reproduction-nested-sub-library-with-number"
+# renovate-reproduction-nested-sub-library-with-number
 
 ## Current behavior
 
@@ -50,4 +50,5 @@ Subprojects included in the `settings.gradle.kts` file are not considered depend
 
 ## Link to the Renovate issue or Discussion
 
-Put your link to the Renovate issue or Discussion here.
+[Link to the Discussion](https://github.com/renovatebot/renovate/discussions/33499).
+
